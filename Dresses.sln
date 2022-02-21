@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1778
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dresses", "Dresses\Dresses.csproj", "{60421844-E0C0-4A84-8C5D-6027300B4FAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DressMvc", "DressMvc\DressMvc.csproj", "{39483E30-B25B-4D19-B20C-883B49661C5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60421844-E0C0-4A84-8C5D-6027300B4FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60421844-E0C0-4A84-8C5D-6027300B4FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60421844-E0C0-4A84-8C5D-6027300B4FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60421844-E0C0-4A84-8C5D-6027300B4FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39483E30-B25B-4D19-B20C-883B49661C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39483E30-B25B-4D19-B20C-883B49661C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39483E30-B25B-4D19-B20C-883B49661C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39483E30-B25B-4D19-B20C-883B49661C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42CAFE4D-0037-4D0A-B255-B1E60E128E2E}
+	EndGlobalSection
+EndGlobal
